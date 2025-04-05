@@ -7,6 +7,6 @@ Welcome to my **Faculty Projects** repository! This repository contains all the 
 This repository contains various projects in different programming languages and technologies, including:
 
 - **Memory Game** (C# Windows Forms)
-- **Rabin-Karp algorithm** (C# Windows Forms)
+- **Rabin-Karp and Sound-Ex algorithm** (C# Windows Forms)
 
 For specific project details, please refer to the respective project folders where you'll find their own README files.
