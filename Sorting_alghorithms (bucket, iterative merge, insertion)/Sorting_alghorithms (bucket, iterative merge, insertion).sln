@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting_alghorithms (bucket, iterative merge, insertion)", "Sorting_alghorithms (bucket, iterative merge, insertion).csproj", "{EBB5BDE9-8CB8-4A9A-9155-ECF766F832FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB5BDE9-8CB8-4A9A-9155-ECF766F832FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB5BDE9-8CB8-4A9A-9155-ECF766F832FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB5BDE9-8CB8-4A9A-9155-ECF766F832FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB5BDE9-8CB8-4A9A-9155-ECF766F832FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19D8A2B8-7612-479C-8B35-918E0C13934A}
+	EndGlobalSection
+EndGlobal
